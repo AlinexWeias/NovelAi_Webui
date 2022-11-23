@@ -1,0 +1,17 @@
+clean-fid
+einops
+ffmpeg
+ftfy
+jsonmerge
+kornia
+numexpr
+matplotlib
+omegaconf
+opencv-python
+pandas
+pytorch_lightning
+resize-right
+scikit-image
+timm
+torchdiffeq
+transformers==4.19.2
